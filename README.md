@@ -1,5 +1,5 @@
 I created this repository with an unstoppable urge while studying discrete mathematics.
-It'll be updated as much as i can in time. 
+It'll be updated over time.
 I believe that it will be full of fun for me to work on it
 # Recurrence-Relations
 Applications of recurrence relations
